@@ -1,0 +1,289 @@
+body{
+text-align: center;
+}
+
+/* Уши */
+
+.ears_left{
+  display: inline-block;
+  width: 146px;
+  height: 138px;
+  background-color:#9574b4;
+  padding: 27px 58px 15px 60px;
+  margin-right: 300px;
+  margin-bottom: -10px;
+}
+.ears_left_orange{
+height: 100%;
+background-color: #f5ba20;
+}
+
+.ears_right{
+  display: inline-block;
+  width: 146px;
+  height: 138px;
+  background-color:#9574b4;
+  padding: 27px 58px 15px 60px;
+  margin-bottom: -10px;
+}
+
+.ears_right_orange{
+  height: 100%;
+  background-color: #f5ba20;
+  }
+  
+/* Голова */
+
+.head{
+width: 984px;
+height: 637px;
+background-color:#9574b4;
+margin: auto;
+}
+
+/* Глаза  */
+
+.eyes_left{
+  display: inline-block;
+  width: 94px;
+  height: 124px;
+  background-color: #f5ba20;
+  padding: 57px 0 0 168px;
+  margin-right: 228px;
+  margin-top: 97px;
+
+}
+
+.eyes_left_pupil{
+ height: 100%;
+ background-color: black;
+}
+
+
+.eyes_right{
+  display: inline-block;
+  width: 94px;
+  height: 124px;
+  background-color: #f5ba20;
+  padding: 57px 168px 0 0;
+}
+
+.eyes_right_pupil{
+  height: 100%;
+  background-color: black;
+ }
+
+ /* Нос */
+
+ .nose{
+  width: 322px;
+  height: 112px;
+  margin: 41px auto;
+  background-color: #fdc580;
+ }
+ 
+ .nostril_left{
+  display: inline-block;
+  width: 63px;
+  height: 82px;
+  background-color: #e73896;
+  margin: 30px 82px 0 0;
+ }
+ .nostril_right{
+  display: inline-block;
+  width: 63px;
+  height: 82px;
+  background-color: #e73896;
+ }
+
+ /* Рот */
+
+.mouth{
+ width: 753px;
+ height: 88px;
+ background-color: #df1f26;
+ margin: auto;
+}
+
+
+
+/* Верх зубы */
+
+.teeth_top {
+font-size: 0;
+}
+
+
+.tooth_top{
+  width: 62px;
+  height: 44px;
+  display: inline-block;
+  background-color: black;
+  margin-right: 44px;
+}
+
+.tooth_top_a{
+  width: 62px;
+  height: 44px;
+  display: inline-block;
+  background-color: black;
+  margin-left: 110px;
+  margin-right: 44px;
+}
+
+.tooth_top_b{
+  width: 62px;
+  height: 44px;
+  display: inline-block;
+  background-color: black;
+  margin-right: 29px;
+}
+
+/* Низ зубы */
+
+.tooth_bot{
+  width: 62px;
+  height: 44px;
+  display: inline-block;
+  background-color: rgb(255, 255, 255);
+  margin-right: 45px;
+}
+
+
+.tooth_bot_a{
+  width: 62px;
+  height: 44px;
+  display: inline-block;
+  background-color: rgb(255, 255, 255);
+  margin-left: 45px;
+  margin-right: 45px;
+}
+
+.tooth_bot_b{
+  width: 62px;
+  height: 44px;
+  display: inline-block;
+  background-color: rgb(255, 255, 255);
+  margin-right: 85px;
+}
+
+/* Шея */
+
+.neck{
+  width: 265px;
+  height: 30px;
+  background-color:#9574b4;
+  margin: auto;
+  padding: 25px 0 25px 0;
+}
+
+.neck_jew{
+  height: 100%;
+  background-color: #f5ba20;
+  margin-left: 5px;
+}
+
+
+/* Тело */
+
+.pig{
+  word-spacing: -5px;
+}
+
+.pigbody{
+  display: inline-block;
+  width: 724px;
+  height: 760px;
+  background-color:#9574b4;
+  border-radius: 40px;
+}
+
+
+
+.hand_left{
+  display: inline-block;
+  width: 58px;
+  height: 177px;
+  background-color:#9574b4;
+  margin-bottom: 500px;
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 30px;
+  padding-right: 82px;
+
+
+}
+
+.hand_right{
+  display: inline-block;
+  width: 58px;
+  height: 177px;
+  background-color:#9574b4;
+  margin-bottom: 500px;
+  border-top-right-radius:30px;
+  border-bottom-right-radius: 30px;
+  padding-left: 82px;
+}
+
+
+.hand_left_black{
+  height: 100%;
+  background-color: black;
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 30px;
+}
+
+.hand_right_black{
+  height: 100%;
+  background-color: black;
+  border-top-right-radius:30px;
+  border-bottom-right-radius: 30px;
+}
+
+
+
+.pigbody_pink{
+  width: 480px;
+  height: 453px;
+  background-color: #e73896;
+  border-radius: 70%;
+  margin: 273px auto;
+  
+}
+
+
+/* Ноги */
+
+
+.legs{
+  margin-top: -18px;
+}
+
+.leg_left{
+  display: inline-block;
+  width:162px;
+  height:58px;
+  background-color:#9574b4;
+  margin-right: 267px;
+  padding-top: 112px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+
+}
+
+.leg_left_black{
+  height: 100%;
+  background-color: black;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+}
+
+.leg_right{
+  display: inline-block;
+  width:162px;
+  height:58px;
+  background-color:#9574b4;
+  padding-top: 112px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+}
+
